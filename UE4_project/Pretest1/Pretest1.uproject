@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{691D8ACA-43D3-8E23-7114-1B966A3B23A6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Pretest1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
