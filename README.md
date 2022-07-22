@@ -1,8 +1,3 @@
-# TencentGame_Hw
-
-- [TencentGame_Hw](#tencentgame_hw)
-  - [UE4 入门](#ue4-入门)
-
 ## UE4 入门
 
 演示视频及安装包
